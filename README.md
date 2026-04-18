@@ -1,4 +1,4 @@
-#⚡ AI-Powered Energy Consumption Forecasting System
+⚡ #**AI-Powered Energy Consumption Forecasting System**
 
 📌 Overview
 
